@@ -4,8 +4,8 @@
 
 <br>
 
-**目次**<br>
- 第1章：[【要件定義】ビジネス要件をインフラ仕様へ変換するワークロード分析](https://github.com/developer-onizuka/proposal-activities?tab=readme-ov-file#%E7%AC%AC1%E7%AB%A0%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E8%A6%81%E4%BB%B6%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E4%BB%95%E6%A7%98%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E5%88%86%E6%9E%90))<br>
+# 目次
+ 第1章：[【要件定義】ビジネス要件をインフラ仕様へ変換するワークロード分析](https://github.com/developer-onizuka/proposal-activities?tab=readme-ov-file#%E7%AC%AC1%E7%AB%A0%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E8%A6%81%E4%BB%B6%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E4%BB%95%E6%A7%98%E3%81%B8%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E5%88%86%E6%9E%90)<br>
  第2章：[【基本設計】投資対効果（ROI）を最大化するスループットとコストの最適化](https://github.com/developer-onizuka/proposal-activities?tab=readme-ov-file#%E7%AC%AC2%E7%AB%A0%E5%9F%BA%E6%9C%AC%E8%A8%AD%E8%A8%88%E6%8A%95%E8%B3%87%E5%AF%BE%E5%8A%B9%E6%9E%9Croi%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%97%E3%83%83%E3%83%88%E3%81%A8%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96)<br>
  第3章：[【詳細設計】推論基盤のアーキテクチャ選定](https://github.com/developer-onizuka/proposal-activities?tab=readme-ov-file#%E7%AC%AC3%E7%AB%A0%E8%A9%B3%E7%B4%B0%E8%A8%AD%E8%A8%88%E6%8E%A8%E8%AB%96%E5%9F%BA%E7%9B%A4%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E9%81%B8%E5%AE%9A)<br>
  第4章：[【実装・最適化】動的メモリ管理とI/Oパイプラインの非同期設計](https://github.com/developer-onizuka/proposal-activities?tab=readme-ov-file#%E7%AC%AC4%E7%AB%A0%E5%AE%9F%E8%A3%85%E6%9C%80%E9%81%A9%E5%8C%96%E5%8B%95%E7%9A%84%E3%83%A1%E3%83%A2%E3%83%AA%E7%AE%A1%E7%90%86%E3%81%A8io%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E9%9D%9E%E5%90%8C%E6%9C%9F%E8%A8%AD%E8%A8%88)<br>
